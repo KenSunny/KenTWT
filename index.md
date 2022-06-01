@@ -25,7 +25,7 @@ Border and basin countries:
  1. Yemen
  1. Somalia
 
-[Another Page](Another_page)
+[Another Page](Another_page.md)
 
 | base number | country |
 | --- | --- |

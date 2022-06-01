@@ -1,6 +1,8 @@
 # Arabian Sea
 The sea is named after _Arabia_, the historic name of the region to the west of the sea.
 
+![Here we go](ab6765630000ba8a792ac38d148f0515c44f0eef.jfif)
+
 ## Geography
 The Arabian Sea's surface area is about 3,862,000 km2 (1,491,130 sq mi).[3] The maximum width of the sea is approximately 2,400 km (1,490 mi), and its maximum depth is 4,652 metres (15,262 ft). The biggest river flowing into the sea is the Indus River.
 

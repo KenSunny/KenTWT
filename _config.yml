@@ -5,3 +5,5 @@ github_username: TheArabianSea
 Author: Habibi@gmail.com
 
 markdown: kramdown
+
+theme: minima

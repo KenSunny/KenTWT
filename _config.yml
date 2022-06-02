@@ -9,5 +9,5 @@ markdown: kramdown
 theme: minima
 
 header_page:
-- index.md
-- another_page.md
+  - index.md
+  - another_page.md

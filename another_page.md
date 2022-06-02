@@ -2,7 +2,6 @@
 
 The _Gulf of Aden_  is a deepwater gulf between **Yemen** to the north, the Arabian Sea to the east, [Djibouti](https://en.wikipedia.org/wiki/Djibouti) to the west, and the Guardafui Channel, Socotra (Yemen), Somaliland and Somalia to the south. In the northwest, it connects with the Red Sea through the Bab-el-Mandeb strait, and it connects with the Arabian Sea to the east. To the west, it narrows into the Gulf of Tadjoura in Djibouti.
 
-
 ![2022 Mahindra Scorpio](https://github.com/KenSunny/KenTWT/blob/main/2022%20Mahindra%20Scorpio.jfif)
 
 The piracy problem had often been accuring in the gulf of aden just the off the coast of Somalia. The piracy problem has now been better containted and maritime pirarcy is at near-zero levels along Somali shores which where illegal, however unreported and unregulated fishing remains common.

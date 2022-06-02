@@ -7,3 +7,7 @@ Author: Habibi@gmail.com
 markdown: kramdown
 
 theme: minima
+
+header_page:
+- index.md
+- another_page.md
